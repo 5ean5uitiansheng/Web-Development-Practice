@@ -1,0 +1,18 @@
+/*Inheritance*/
+body{
+	color: red;
+}
+
+/*Specificity*/
+ul{
+	color: purple;
+}
+li{
+	color: orange;	
+}
+.highlight{
+	color: green;
+}
+#special{
+	color: pink;	
+}
